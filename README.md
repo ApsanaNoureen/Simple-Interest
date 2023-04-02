@@ -1,2 +1,2 @@
 # Simple-Interest
-Project
+This is a program to find the simple interest through HTML and JavaScript.
